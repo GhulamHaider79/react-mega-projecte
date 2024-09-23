@@ -17,7 +17,7 @@ dist-ssr
 !.vscode/extensions.json
 .idea
 .env
-.env.sampel
+.env.sample  # Corrected from .env.sampel to .env.sample
 .DS_Store
 *.suo
 *.ntvs*
