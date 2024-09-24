@@ -4,7 +4,7 @@ function Button({
     children,
     type = 'button',
     bgColor = 'bg-blue-600',
-    textColor = 'text-white', // Changed from 'white' to 'text-white' for clarity
+    textColor = 'text-white', 
     className = '',
     ...props
 }) {

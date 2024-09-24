@@ -4,7 +4,7 @@ import { Controller } from 'react-hook-form';
 import conf from '../conf/conf'
 
 function RTE({ name, control, label, defaultValue = "" }) {
-    console.log('RTE rendering...'); // Debug log
+    
 
     return (
         <div className='flex flex-col items-start w-full'>
